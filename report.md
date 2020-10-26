@@ -38,7 +38,7 @@ coi: Please add if there are competing interests. Otherwise, type None.
 
 acknow: The authors would like to thank the organizers and attendees of OHBM Brainhack 2020.
 
-contrib: JD and JJD wrote the software, JD performed tests, and JD and JJD wrote the report.
+contrib: AK did something.
 
 tags:
   - MRI
