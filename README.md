@@ -9,7 +9,6 @@
 
 <p align="center">Go to the <code>Actions</code> tab in your forked repo, and click the green button that says "I understand my actions, go ahead and enable them".</p>
 
-
 <h3 align="center">  Create a GitHub access token </h3>
 <h3 align="center"> 🔑 </h3>
 
